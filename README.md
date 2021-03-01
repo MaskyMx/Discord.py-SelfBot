@@ -44,8 +44,5 @@ Repl.it
 
       This bot works best on repl.it. Repl.it is free and does the job well, but you should not share your repl.it with anybody, as anybody who stumbles to your account can find the repl, along with your Discord token. If you "upgrade" your repl.it account, you can keep your repls confidential. Repl.it also does *not* keep your scripts running 24/7.  
 
-
-DO NOT FUCKING SKID THIS! GIVE CREDIT!
-
 Creator GitHub: https://github.com/MaskyMx
 Creater Discord: ཊ☬ཏ MΛƧKY ཊ☬ཏ#0666 (ID: 733917864725184614)
