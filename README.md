@@ -13,3 +13,39 @@ https://repl.it/
 
 
 All of the information for the selfbot is in the "HOWTOUSE.txt" file in the ZIP folder. 
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Instructions and commands.
+ 
+     -The commands are fairly simple. Use >>support to see the list of categories. The categories are as such:
+
+       >>misc
+       >>user
+       >>server
+       >>status
+
+
+Token
+
+     -To function correctly, you need to input your token at the end of script. It would say "{token}",this is where you input your Discord account's token. If you don't know where to find that,
+     watch this video and then come back: 
+     
+     https://www.youtube.com/results?search_query=how+to+find+your+discord+token
+
+
+!!IMPORTANT!!
+
+      Your token is an EXTREMELY important addition to your account. Treat it like a password, because in a way, it is. A token is a one-way ticket to accessing your account. It is meant to be kept confidential.
+
+
+Repl.it
+
+      This bot works best on repl.it. Repl.it is free and does the job well, but you should not share your repl.it with anybody, as anybody who stumbles to your account can find the repl, along with your Discord token. If you "upgrade" your repl.it account, you can keep your repls confidential. Repl.it also does *not* keep your scripts running 24/7.  
+
+
+DO NOT FUCKING SKID THIS! GIVE CREDIT!
+
+Creator GitHub: https://github.com/MaskyMx
+Creater Discord: ཊ☬ཏ MΛƧKY ཊ☬ཏ#0666 (ID: 733917864725184614)
